@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
